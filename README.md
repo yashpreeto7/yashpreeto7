@@ -4,7 +4,7 @@
 
 <!-- ═══════════════════ HERO SECTION ═══════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+I'm+Yashpreet+Singh_;full-stack+%2B+AI+%2B+software+builder;loading+personality.exe+...+100%25" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+I'm+Yashpreet+Singh_;full-stack+%2B+AI+%2B+software+builder;loading+personality.exe...+100%25%25" alt="Typing SVG" /></a>
 
 <br>
 
@@ -155,9 +155,15 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashpreeto7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d111700&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=yashpreeto7&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashpreeto7&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="180" />
+</picture>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=yashpreeto7&theme=github-dark-blue&hide_border=true&background=0d111700&stroke=30363d&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yashpreeto7&theme=dark&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=yashpreeto7&theme=default&hide_border=true" alt="GitHub Streak" height="180" />
+</picture>
 
 <br><br>
 
