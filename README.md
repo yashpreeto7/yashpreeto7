@@ -1,57 +1,55 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- HEADER WAVE                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ROW 1: HERO INTRO + PAC-MAN                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <table>
-<tr>
-<td>
+<tr><td>
 
 ```
-╭─── yash@github:~ ──────────────────────────────────╮
-│                                                     │
-│  Hello, I'm                                         │
-│                                                     │
+╭── yash@github:~ ──────────────────╮
+│                                   │
+│  Hello, I'm                      │
 ```
 
-<h1 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&vCenter=true&multiline=false&width=435&lines=Yashpreet+Singh_" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=350&lines=Yashpreet+Singh_" alt="Typing SVG" />
 
 ```
-│  full-stack + AI + software builder                 │
-│                                                     │
-│  loading personality.exe                            │
-│  ██████████████████████████████████████████ 100%     │
-│                                                     │
-│  > enter                                            │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
+│  full-stack + AI + software builder │
+│                                   │
+│  loading personality.exe          │
+│  ████████████████████████ 100%    │
+│                                   │
+│  > enter                          │
+╰───────────────────────────────────╯
 ```
 
-</td>
-<td>
+</td><td>
 
 ```
-╭─── game.pacman ─────────────────────────────────────╮
-│                                                     │
-│                                                     │
-│    🟡 • • • • • • • 👻 👻 👻 👻                    │
-│                                                     │
-│                                                     │
-│                                                     │
-│  > mission: eat bugs, ship features, repeat         │
-│                                                     │
-│                                                     │
-│                                                     │
-│                                                     │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
+╭── game.pacman ────────────────────╮
+│                                   │
+│                                   │
+│  🟡 • • • • • 👻 👻 👻 👻       │
+│                                   │
+│                                   │
+│                                   │
+│  > mission: eat bugs,             │
+│    ship features, repeat          │
+│                                   │
+│                                   │
+│                                   │
+╰───────────────────────────────────╯
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -59,70 +57,61 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <table>
-<tr>
-<td>
+<tr><td>
 
 ```
-╭─── system.diagnostics ─────────────────────────╮
-│                                                 │
-│  🧠 CPU        overthinking   ██████████████░░  │
-│  💾 RAM        somehow full   █████████████░░░  │
-│  ☕ COFFEE     required       ██████████████░░  │
-│  🐛 BUGS      multiplying    █████████░░░░░░░  │
-│  😴 SLEEP     not found      ███░░░░░░░░░░░░░  │
-│  </> CODE QUALITY compiling.. ████████████████  │
-│                                                 │
-│  > status: probably fine.                       │
-│                                                 │
-╰─────────────────────────────────────────────────╯
+╭── system.diagnostics ────────╮
+│                               │
+│  🧠 CPU     overthinking ███ │
+│  💾 RAM     somehow full ██░ │
+│  ☕ COFFEE  required     ███ │
+│  🐛 BUGS   multiplying  ██░ │
+│  😴 SLEEP  not found    █░░ │
+│  </> CODE   compiling... ███ │
+│                               │
+│  > status: probably fine.     │
+╰──────────────────────────────╯
 ```
 
-</td>
-<td>
+</td><td>
 
 ```
-╭─── github.contribution ────────────────────────╮
-│                                                 │
+╭── github.contribution ───────╮
+│                               │
 ```
 
-<h3 align="center">Contribution Snake 🐍</h3>
+<h3>Contribution Snake 🐍</h3>
 
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/github-snake-dark.svg" width="400" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/github-snake-dark.svg" width="300" />
 </picture>
-</p>
 
 ```
-│                                                 │
-│  > survived another year of touching grass      │
-│  🏆 achievement unlocked                       │
-│                                                 │
-╰─────────────────────────────────────────────────╯
+│  > survived another year     │
+│    of touching grass          │
+│  🏆 achievement unlocked     │
+╰──────────────────────────────╯
 ```
 
-</td>
-<td>
+</td><td>
 
 ```
-╭─── now.building ───────────────────────────────╮
-│                                                 │
-│  Currently Building                             │
-│                                                 │
-│  🧪 AI tools that actually help                 │
-│  🎨 Better developer experiences                │
-│  ⚙️  Backend systems that scale                  │
-│  🔮 Whatever I get obsessed with next           │
-│                                                 │
-│  obsession level: █████████████████░░░░ 87%     │
-│                                                 │
-╰─────────────────────────────────────────────────╯
+╭── now.building ──────────────╮
+│                               │
+│  Currently Building           │
+│                               │
+│  🧪 AI tools that help       │
+│  🎨 Better dev experiences   │
+│  ⚙️  Backend systems          │
+│  🔮 Next obsession           │
+│                               │
+│  obsession: ██████████░ 87%   │
+╰──────────────────────────────╯
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -130,93 +119,81 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <table>
-<tr>
-<td>
+<tr><td>
 
 ```
-╭─── inventory ──────────────────────────────────╮
-│                                                 │
-│  Developer Inventory 🎒                         │
-│                                                 │
-│  ⌨️  Mechanical Keyboard            [✓]         │
-│  💻 VS Code                        [✓]         │
-│  🔧 Git                            [✓]         │
-│  💡 17 Unfinished Ideas            [✓]         │
-│  📚 Stack Overflow Tab             [✓]         │
-│  ☕ Coffee                         [✓]         │
-│  😴 Sleep                          [?]         │
-│  🕐 Free Time                      [?]         │
-│                                                 │
-╰─────────────────────────────────────────────────╯
+╭── inventory ─────────────────╮
+│                               │
+│  Developer Inventory 🎒      │
+│                               │
+│  ⌨️  Mechanical Keyboard [✓]  │
+│  💻 VS Code            [✓]  │
+│  🔧 Git                [✓]  │
+│  💡 17 Unfinished Ideas [✓]  │
+│  📚 Stack Overflow Tab  [✓]  │
+│  ☕ Coffee              [✓]  │
+│  😴 Sleep               [?]  │
+│  🕐 Free Time           [?]  │
+╰──────────────────────────────╯
 ```
 
-</td>
-<td>
+</td><td>
 
 ```
-╭─── achievements ───────────────────────────────╮
-│                                                 │
-│  Achievements 🏆                                │
-│                                                 │
-│  ┌───────────────────────────────────────────┐  │
-│  │ 🏅 It Works™                              │  │
-│  │ Ran the code without error (once)  +10 XP │  │
-│  └───────────────────────────────────────────┘  │
-│                                                 │
-│  ┌───────────────────────────────────────────┐  │
-│  │ 🗑️  Deleted node_modules                  │  │
-│  │ The universal solution             +25 XP │  │
-│  └───────────────────────────────────────────┘  │
-│                                                 │
-│  ┌───────────────────────────────────────────┐  │
-│  │ 📖 Read The Docs                          │  │
-│  │ Impossible achievement             +50 XP │  │
-│  └───────────────────────────────────────────┘  │
-│                                                 │
-│  Total XP: 9999+  ████████████████████████████  │
-│                                                 │
-╰─────────────────────────────────────────────────╯
+╭── achievements ──────────────╮
+│                               │
+│  Achievements 🏆             │
+│                               │
+│  ┌────────────────────────┐  │
+│  │ 🏅 It Works™           │  │
+│  │ No error (once) +10 XP │  │
+│  └────────────────────────┘  │
+│  ┌────────────────────────┐  │
+│  │ 🗑️  Deleted node_modules│  │
+│  │ Universal sol.  +25 XP │  │
+│  └────────────────────────┘  │
+│  ┌────────────────────────┐  │
+│  │ 📖 Read The Docs       │  │
+│  │ Impossible      +50 XP │  │
+│  └────────────────────────┘  │
+│                               │
+│  Total XP: 9999+ ████████   │
+╰──────────────────────────────╯
 ```
 
-</td>
-<td>
+</td><td>
 
 ```
-╭─── terminal.chat ──────────────────────────────╮
-│                                                 │
-│  $ who are you?                                 │
-│                                                 │
-│  > just a developer who thinks in code and      │
-│    ships in caffeine.                           │
-│                                                 │
-│  $ can you fix this bug?                        │
-│  > yes.                                         │
-│                                                 │
-│  $ how?                                         │
-│  > magic. ✨                                    │
-│                                                 │
-│  $ ok fair.                                     │
-│                                                 │
-╰─────────────────────────────────────────────────╯
+╭── terminal.chat ─────────────╮
+│                               │
+│  $ who are you?               │
+│                               │
+│  > just a developer who       │
+│    thinks in code and         │
+│    ships in caffeine.         │
+│                               │
+│  $ can you fix this bug?      │
+│  > yes.                       │
+│                               │
+│  $ how?                       │
+│  > magic. ✨                  │
+│                               │
+│  $ ok fair.                   │
+│                               │
+│                               │
+│                               │
+╰──────────────────────────────╯
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr>
-<td>
-
 ```
-╭─── tech.stack ─────────────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                                       │
-│  Weapons of Choice                                                                                    │
-│                                                                                                       │
+╭── tech.stack ──── Weapons of Choice ──────────────────────────────────────────────────╮
 ```
 
 <p align="center">
@@ -224,55 +201,39 @@
 </p>
 
 ```
-│                                                                                                       │
-╰───────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╰───────────────────────────────────────────────────────────────────────────────────────╯
 ```
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <table>
-<tr>
-<td>
+<tr><td>
 
 ```
-╭─── github.stats ───────────────────────────────╮
-│                                                 │
+╭── github.stats ──────────────╮
 ```
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yashpreeto7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" width="400" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yashpreeto7&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" width="380" />
 
 ```
-│                                                 │
-╰─────────────────────────────────────────────────╯
+╰──────────────────────────────╯
 ```
 
-</td>
-<td>
+</td><td>
 
 ```
-╭─── streak.counter ─────────────────────────────╮
-│                                                 │
+╭── streak.counter ────────────╮
 ```
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yashpreeto7&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" width="400" />
-</p>
+<img src="https://streak-stats.demolab.com?user=yashpreeto7&theme=github-dark-blue&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" width="380" />
 
 ```
-│                                                 │
-╰─────────────────────────────────────────────────╯
+╰──────────────────────────────╯
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -283,9 +244,9 @@
 <summary>
 
 ```
-╭─── secret.exe ─────────────────────────────────────────────────────────────────────────────────────────╮
-│  🔒 Click to unlock the secret area...                                                                │
-╰───────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭── secret.exe ─────────────────────────────────────────────────────────────────────────╮
+│  🔒 Click to unlock the secret area...                                                │
+╰───────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </summary>
@@ -293,21 +254,21 @@
 <br>
 
 ```
-╭─── secret.exe ─────────────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                                       │
-│  🔓 You found the secret area!                                                                        │
-│  Achievement unlocked: README Archaeologist 🏛️                                                        │
-│  Come back later, more secrets loading...                                                             │
-│                                                                                                       │
-│  👾         🛸         🌟         👽         ⭐         🪐                                             │
-│                                                                                                       │
-│  fun facts:                                                                                           │
-│  • I mass-produce side projects at 2 AM                                                               │
-│  • My git log is longer than my sleep log                                                             │
-│  • I mass-produce side projects at 2 AM                                                               │
-│  • I mass-produce si-- wait, is this a loop?                                                          │
-│                                                                                                       │
-╰───────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭── secret.exe ─────────────────────────────────────────────────────────────────────────╮
+│                                                                                       │
+│  🔓 You found the secret area!                                                        │
+│  Achievement unlocked: README Archaeologist 🏛️                                        │
+│  Come back later, more secrets loading...                                             │
+│                                                                                       │
+│  👾         🛸         🌟         👽         ⭐         🪐                             │
+│                                                                                       │
+│  fun facts:                                                                           │
+│  • I mass-produce side projects at 2 AM                                               │
+│  • My git log is longer than my sleep log                                             │
+│  • I mass-produce side projects at 2 AM                                               │
+│  • I mass-produce si-- wait, is this a loop?                                          │
+│                                                                                       │
+╰───────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </details>
@@ -317,11 +278,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ```
-╭─── connect ────────────────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                                       │
-│  Let's build something cool together.                                                                 │
-│                                                                                                       │
-╰───────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭── connect ────────────────────────────────────────────────────────────────────────────╮
+│                                                                                       │
+│  Let's build something cool together.                                                 │
+│                                                                                       │
+╰───────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <p align="center">
@@ -335,9 +296,7 @@
 <!-- FOOTER                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yashpreeto7&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
