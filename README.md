@@ -156,8 +156,8 @@
 ### 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=yashpreeto7&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashpreeto7&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="180" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <img src="./profile/stats-light.svg" alt="GitHub Stats" height="180" />
 </picture>
 &nbsp;&nbsp;
 <picture>
