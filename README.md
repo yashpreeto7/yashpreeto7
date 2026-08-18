@@ -336,7 +336,7 @@ $ 😂
 
 <h3>🏆 GitHub Trophies</h3>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpreeto7&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpreeto7&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C" width="100%" alt="Trophies" /></a>
 
 <br><br>
 
@@ -456,9 +456,20 @@ $ 😂
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="https://github.com/yashpreeto7/yashpreeto7">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashpreeto7&repo=yashpreeto7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" width="100%" alt="Profile Repo" />
-</a>
+```
+╭───────────────────────────────────╮
+│                                   │
+│   📂 yashpreeto7/yashpreeto7      │
+│                                   │
+│   🎨 This profile README repo     │
+│   Cards + Pac-Man + Animations    │
+│                                   │
+│   ⭐ Star if you like it!         │
+│                                   │
+╰───────────────────────────────────╯
+```
+
+<a href="https://github.com/yashpreeto7/yashpreeto7"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
