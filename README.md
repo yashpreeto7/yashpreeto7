@@ -336,7 +336,7 @@ $ 😂
 
 <h3>🏆 GitHub Trophies</h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashpreeto7&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpreeto7&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies" /></a>
 
 <br><br>
 
@@ -359,10 +359,7 @@ $ 😂
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreeto7&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreeto7&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreeto7&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
 
 <br>
 
