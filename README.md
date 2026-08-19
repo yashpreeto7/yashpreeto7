@@ -40,9 +40,9 @@ I'm **Yashpreet Singh** — a **full-stack developer** and **AI enthusiast** who
 <br>
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="padding-top: 20px;">
 
-<img src="https://github.com/yashpreeto7.png" width="160" alt="Yashpreet" />
+<img src="https://github.com/yashpreeto7.png" width="160" style="border-radius: 50%;" alt="Yashpreet" />
 
 <br><br>
 
