@@ -4,69 +4,158 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,25:fd1d1d,50:fcb045,75:4ECDC4,100:6e40c9&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Hello%2C+I'm+Yashpreet+Singh+%F0%9F%91%8B;%3E+full-stack+%2B+AI+%2B+software+builder;%3E+shipping+code+%26+eating+bugs+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=45&lines=%3E+Hello%2C+I'm+Yashpreet+Singh+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<br>
+<br><br>
 
-<!-- ═══════════════════ ABOUT + CONTRIBUTION ═══════════════════ -->
+<!-- ═══════════════════ ABOUT ME CARD ═══════════════════ -->
 
 <table>
 <tr>
-<th align="center">🔵 ❯ about.me</th>
-<th align="center">🟢 ❯ contribution.snake</th>
+<th align="center" colspan="2">🔵 ❯ about.me</th>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="60%" valign="top">
 
 <br>
 
-<img src="https://github.com/yashpreeto7.png" width="120" alt="Yashpreet" />
+### 👋 Hey there!
+
+I'm **Yashpreet Singh** — a **full-stack developer** and **AI enthusiast** who loves building products that solve real problems.
+
+<br>
+
+<img src="https://img.shields.io/badge/Full--Stack-58A6FF?style=flat-square&labelColor=161b22" /> <img src="https://img.shields.io/badge/AI_/_ML-3fb950?style=flat-square&labelColor=161b22" /> <img src="https://img.shields.io/badge/Software_Builder-bc8cff?style=flat-square&labelColor=161b22" />
+
+<br>
+
+🧪 Currently building **AI tools** that actually help
+
+🎨 Passionate about **great developer experiences**
+
+⚙️ Love crafting **backend systems** that scale
+
+🚀 Always **shipping** something new
+
+<br>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/yashpreeto7.png" width="160" alt="Yashpreet" />
 
 <br><br>
 
-**Yashpreet Singh** 🧑‍💻
+🧠 `overthinking` · ☕ `critical`
+
+😴 `not found` · ⌨️ `compiling...`
 
 <br>
 
-<img src="https://img.shields.io/badge/Full--Stack-58A6FF?style=flat-square&labelColor=161b22" /> <img src="https://img.shields.io/badge/AI-3fb950?style=flat-square&labelColor=161b22" /> <img src="https://img.shields.io/badge/Software_Builder-bc8cff?style=flat-square&labelColor=161b22" />
-
-<br><br>
-
-🧠 `overthinking` · 💾 `somehow full` · ☕ `critical`
-🐛 `multiplying` · 😴 `not found` · ⌨️ `compiling...`
-
-<br>
-
-**`> status: probably fine. ™`**
-
-<br>
-
-<a href="https://github.com/yashpreeto7"><img src="https://img.shields.io/badge/❯_enter-58A6FF?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://portfolio-steel-three-33.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&labelColor=0d1117" /></a>
 
 <br><br>
 
 </td>
-<td width="50%" align="center" valign="top">
+</tr>
+</table>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/github-snake-dark.svg" width="100%" />
-</picture>
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
-<br><br>
-
-🏆 `survived another year of touching grass`
+<table>
+<tr>
+<th align="center" colspan="2">🚀 ❯ featured.projects</th>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <br>
 
-🟡 ● ● ● ● ● ● 👻 👻 👻 👻
+<a href="https://github.com/yashpreeto7/Portfolio">
 
-**`> mission: eat bugs, ship features, repeat`**
+### 🌐 Portfolio
+
+</a>
+
+**Personal portfolio website** built with modern web tech. Showcases projects, skills, and experience with smooth animations.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
 
 <br><br>
+
+<a href="https://github.com/yashpreeto7/DocDispatch">
+
+### 📄 DocDispatch ⭐2
+
+</a>
+
+**Document management & dispatch system.** Streamlines document workflows with automated routing and tracking.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+
+<br><br>
+
+<a href="https://github.com/yashpreeto7/Macrolens">
+
+### 🔍 Macrolens
+
+</a>
+
+**Data visualization & analytics tool.** Explore and analyze data with interactive macro-level lens views.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+<br>
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+<a href="https://github.com/yashpreeto7/Pal-Ai">
+
+### 🤖 Pal-AI
+
+</a>
+
+**AI-powered personal assistant.** Leverages machine learning to provide intelligent, context-aware responses.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI_/_ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+
+<br><br>
+
+<a href="https://github.com/yashpreeto7/Ai-Customer-Support-bot">
+
+### 💬 AI Customer Support Bot
+
+</a>
+
+**Intelligent support chatbot.** Automates customer queries with NLP-driven conversational AI.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+<br><br>
+
+<a href="https://github.com/yashpreeto7/VideoTube-backend">
+
+### 🎬 VideoTube Backend
+
+</a>
+
+**Video streaming platform backend.** RESTful API with video upload, processing, and streaming capabilities.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<a href="https://github.com/yashpreeto7?tab=repositories"><img src="https://img.shields.io/badge/View_All_18_Repos_→-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -85,7 +174,7 @@
 
 <br>
 
-**Languages & Frameworks** &nbsp;&nbsp;|&nbsp;&nbsp; **Tools & Infra** &nbsp;&nbsp;|&nbsp;&nbsp; **Cloud**
+**Languages & Frameworks** &nbsp;&nbsp;·&nbsp;&nbsp; **Tools & Infra** &nbsp;&nbsp;·&nbsp;&nbsp; **Cloud**
 
 <br>
 
@@ -120,8 +209,6 @@
   <img src="./profile/stats-light.svg" alt="GitHub Stats" width="100%" />
 </picture>
 
-
-
 <br>
 
 </td>
@@ -136,72 +223,24 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpreeto7&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=3fb950" width="100%" alt="Activity Graph" />
-
-<br>
-
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- ═══════════════════ BUILDING + ACHIEVEMENTS ═══════════════════ -->
+<!-- ═══════════════════ CONTRIBUTION ANIMATIONS ═══════════════════ -->
 
 <table>
 <tr>
-<th align="center">🔮 ❯ now.building</th>
-<th align="center">🏆 ❯ achievements</th>
+<th align="center">🐍 ❯ contribution.snake</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
 <br>
 
-🧪 **AI tools** that actually help
-
-🎨 **Better** developer experiences
-
-⚙️ **Backend** systems that scale
-
-🔮 **Whatever** I get obsessed with next
-
-<br>
-
-| Item | Status |
-|:---|:---:|
-| ⌨️ Mechanical Keyboard | ✅ |
-| 💻 VS Code (47 extensions) | ✅ |
-| 🔧 Git (force push certified) | ✅ |
-| 💡 17 Unfinished Side Projects | ✅ |
-| ☕ Coffee (IV drip edition) | ✅ |
-| 😴 Sleep | ❌ |
-
-<br>
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-
-> 🏅 **It Works™** — Ran the code without error (once) `+10 XP`
-
-> 🗑️ **Deleted node_modules** — The universal solution `+25 XP`
-
-> 📖 **Read The Docs** — Impossible achievement `+50 XP`
-
-> 🧙 **Stack Overflow Wizard** — Copied the accepted answer `+100 XP`
-
-<br>
-
-**Total XP:** `9999+` &nbsp; `████████████████████████`
-
-<br>
-
-**`$ who are you?`**
-`> just a dev who ships in caffeine`
-
-**`$ can you fix this bug?`** `> magic ✨`
+<img src="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 
 <br>
 
@@ -210,6 +249,42 @@
 </table>
 
 <br>
+
+<!-- ═══════════════════ PACMAN ═══════════════════ -->
+
+<table>
+<tr>
+<th align="center">👾 ❯ pacman.game</th>
+</tr>
+<tr>
+<td align="center">
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/yashpreeto7/yashpreeto7/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+</picture>
+
+<br>
+
+🟡 ● ● ● ● ● ● ᗧ ● ● ● 👻 👻 👻
+
+**`> waka waka... your contributions have been consumed`** 🟡
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpreeto7&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=3fb950" width="100%" alt="Activity Graph" />
+
+<br><br>
 
 <!-- ═══════════════════ SECRET ═══════════════════ -->
 
@@ -232,15 +307,13 @@
 
 <br>
 
-👾 &nbsp; 🛸 &nbsp; 🌟 &nbsp; 👽 &nbsp; ⭐ &nbsp; 🪐 &nbsp; 🌌 &nbsp; 🔭
-
-<br>
-
-**fun facts** · I mass-produce side projects at 2 AM · My git log is longer than my sleep log · `console.log("debugging")` is my IDE · `Error: Maximum recursion depth exceeded`
-
-<br>
-
-☕ `coffee: overflow` · 🛌 `sleep: null` · 💡 `3AM ideas: infinite` · 📁 `browser tabs: 347+` · 🔥 `"last commit": lies`
+| 🧠 Fun Fact | Value |
+|:---|:---|
+| ☕ Cups of coffee today | `overflow` |
+| 🛌 Hours of sleep | `null` |
+| 💡 Ideas at 3 AM | `infinite` |
+| 📁 Tabs open in browser | `347+` |
+| 🔥 Times said "last commit" | `lies` |
 
 <br>
 
@@ -267,7 +340,7 @@
 
 <br>
 
-**`> Let's build something cool together.`**
+**`> Let's build something cool together.`** 🤝
 
 <br>
 
